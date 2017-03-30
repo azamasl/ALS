@@ -1,4 +1,4 @@
-I test my code on my laptop and I am reporting the result on my laptop. I also tested on crunchy1 and it runs there too.
+I tested my code on my laptop and  reporting the result from  my laptop. I also tested on crunchy1 and it runs there too.
 
 mpirun -np 6 ./int_ring 1000000:
 
